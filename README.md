@@ -1,16 +1,22 @@
-## Hi there 👋
+BHUVAN
+Full-Stack Product Engineering.
 
-<!--
-**ZOnyxGH/ZOnyxGH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building end-to-end experiences. Translating clean logic into sharp, minimal frontends.
 
-Here are some ideas to get you started:
+I. THE DIRECTIVE
+I ship products. Operating at the intersection of robust backend architecture and high-fidelity design. The objective is to move fast, build with intention, and maintain an uncompromising standard for quality.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently expanding my engineering foundation as a Computer Science student, with a daily focus on writing systems that scale and interfaces that feel effortless.
+
+II. THE ARSENAL
+Core Logic: Python, C
+
+Interface: HTML, Modern Frontend Tooling
+
+Discipline: Full-Stack Architecture, Product Design
+
+III. THE TRAJECTORY
+Moving aggressively toward building independent products and scalable systems. The focus is defined by rapid execution, refining architectural intuition, and shipping work that speaks entirely for itself.
+
+V. PRESENCE
+LinkedIn • Bhuvanteja292@gmail.com
