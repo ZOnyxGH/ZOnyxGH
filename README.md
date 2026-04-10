@@ -18,10 +18,16 @@ Interface: HTML, Modern Frontend Tooling
 
 Discipline: Full-Stack Architecture, Product Design
 
-III. THE TRAJECTORY
+III. THE WORK
+
+
+PROJECT - 1:
+* [WHISPR — Multi-Vector AI Threat Detector] — Detects Wi-Fi honeypots & proximate Bluetooth surveillance devices in real-time using a One-Class SVM anomaly model + RSSI distance scoring, served via a live Flask + SocketIO dashboard. [ Python · scikit-learn · bleak · Flask · HTML/CSS/JS ]
+
+IV. THE TRAJECTORY
 
 Moving aggressively toward building independent products and scalable systems. The focus is defined by rapid execution, refining architectural intuition, and shipping work that speaks entirely for itself.
 
-IV. PRESENCE
+V. PRESENCE
 
 https://www.linkedin.com/in/bhuvan-t-01a677378 • Bhuvanteja292@gmail.com
