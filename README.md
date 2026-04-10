@@ -22,6 +22,6 @@ III. THE TRAJECTORY
 
 Moving aggressively toward building independent products and scalable systems. The focus is defined by rapid execution, refining architectural intuition, and shipping work that speaks entirely for itself.
 
-V. PRESENCE
+IV. PRESENCE
 
 https://www.linkedin.com/in/bhuvan-t-01a677378 • Bhuvanteja292@gmail.com
